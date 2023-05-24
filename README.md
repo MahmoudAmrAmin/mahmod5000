@@ -6,9 +6,8 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in flutter and Artificial Intelligence .
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
+- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress.
 - 👌 &nbsp; I love problem solving and Thinking to solve problems .
-
 <h3>🛠 Tech Stack</h3>
 
 
