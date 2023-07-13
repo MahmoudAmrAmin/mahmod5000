@@ -1,4 +1,4 @@
-                                            <h1> Hey there! I'm Mahmoud 👋 </h1>
+                                            
 <h2> A Computer science student  </h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 👨‍💻 &nbsp; I’m currently learning computer science at benha university.<p></p>
